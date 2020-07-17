@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1074648796993",
+    "firebase_url": "https://autograph-da044.firebaseio.com",
+    "project_id": "autograph-da044",
+    "storage_bucket": "autograph-da044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074648796993:android:7a04951ad1e559c7501bc0",
+        "android_client_info": {
+          "package_name": "com.autograph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074648796993-1iggjo82h05dnv3df97db88osicofa2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autograph",
+            "certificate_hash": "33fdd3bf302b43fb179ca99e477822ce1e63f94b"
+          }
+        },
+        {
+          "client_id": "1074648796993-h7tvqd142moa7kgfraramceqlf7nsmvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autograph",
+            "certificate_hash": "73a73cf72b764a3dd20bf3387e5cdde526fd54ca"
+          }
+        },
+        {
+          "client_id": "1074648796993-gftste6vrva48gfqqnii0ml0rj7hj1ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl5nlvWmVWZdEH6k-3eqbAttkIeC7p-cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074648796993-gftste6vrva48gfqqnii0ml0rj7hj1ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
